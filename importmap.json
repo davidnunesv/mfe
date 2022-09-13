@@ -4,6 +4,7 @@
     "@teros/content": "http://localhost:8500/teros-content.js",
     "@teros/navbar": "http://localhost:8501/teros-navbar.js",
     "@teros/dash": "http://localhost:8502/teros-dash.js",
-    "@teros/stats": "http://localhost:8503/teros-stats.js"
+    "@teros/stats": "http://localhost:8503/teros-stats.js",
+    "@teros/style-guide":"http://localhost:8080/teros-style-guide.js"
   }
 }
